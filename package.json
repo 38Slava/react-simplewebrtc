@@ -12,7 +12,5 @@
     "simplewebrtc"
   ],
   "author": "Shamiul Hoque <shoq9876@gmail.com> (shamiulhoque.info)",
-  "license": "MIT",
-  "dependencies": {
-  }
+  "license": "MIT"
 }
